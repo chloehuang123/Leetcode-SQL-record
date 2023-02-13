@@ -14,3 +14,4 @@ This repo is aim to track the SQL problems I've tackled.
 |[196. Delete Duplicate Emails](https://leetcode.cn/problems/delete-duplicate-emails/)|[solution](https://leetcode.cn/submissions/detail/398133369/)|Easy|[solution 2](https://leetcode.cn/submissions/detail/398132845/)|
 |[1667. Fix Names in a Table](https://leetcode.cn/problems/fix-names-in-a-table/)|[solution](https://leetcode.cn/submissions/detail/400961993/)|Easy||
 |[1484. Group Sold Products By The Date](https://leetcode.cn/problems/group-sold-products-by-the-date/)|[solution](https://leetcode.cn/submissions/detail/400965492/)|Easy||
+|[]()|[]()|
