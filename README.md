@@ -11,3 +11,4 @@ This repo is aim to track the SQL problems I've tackled.
 |[183. Customers Who Never Order](https://leetcode.cn/problems/customers-who-never-order/)|[solution](https://leetcode.cn/submissions/detail/398122746/)|Easy|[solution 2](https://leetcode.cn/submissions/detail/398122202/)|
 |[1873. Calculate Special Bonus](https://leetcode.cn/problems/calculate-special-bonus/)|[solution](https://leetcode.cn/submissions/detail/398128132/)|Easy||
 |[627. Swap Salary](https://leetcode.cn/problems/swap-salary/)|[solution](https://leetcode.cn/submissions/detail/398129117/)|Easy||
+|[196. Delete Duplicate Emails](https://leetcode.cn/problems/delete-duplicate-emails/)|[solution](https://leetcode.cn/submissions/detail/398133369/)|Easy|[solution 2](https://leetcode.cn/submissions/detail/398132845/)|
