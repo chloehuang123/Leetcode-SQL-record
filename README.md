@@ -16,8 +16,8 @@ This repo is aim to track the SQL problems I've tackled.
 |[1484. Group Sold Products By The Date](https://leetcode.cn/problems/group-sold-products-by-the-date/)|[submission](https://leetcode.cn/submissions/detail/400965492/)|Easy||
 |[1527. Patients With a Condition](https://leetcode.cn/problems/patients-with-a-condition/)|[submission](https://leetcode.cn/submissions/detail/400967453/)|Easy||
 |[1965. Employees With Missing Information](https://leetcode.cn/problems/employees-with-missing-information/)|[submission](https://leetcode.cn/submissions/detail/401245889/)|Easy||
-|[1795. Rearrange Products Table](https://leetcode.cn/problems/rearrange-products-table/)|[ssubmission](https://leetcode.cn/submissions/detail/401250874/)|Easy||
+|[1795. Rearrange Products Table](https://leetcode.cn/problems/rearrange-products-table/)|[submission](https://leetcode.cn/submissions/detail/401250874/)|Easy||
 |[608. Tree Node](https://leetcode.cn/problems/tree-node/)|[submission](https://leetcode.cn/submissions/detail/401260518/)|Medium||
 |[176. Second Highest Salary](https://leetcode.cn/problems/second-highest-salary/)|[submission](https://leetcode.cn/submissions/detail/402145426/)|Medium||
 |[175. Combine Two Tables](https://leetcode.cn/problems/combine-two-tables/)|[submission](https://leetcode.cn/submissions/detail/402150282/)|Easy||
-|[1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.cn/problems/customer-who-visited-but-did-not-make-any-transactions/)|[submission](https://leetcode.cn/submissions/detail/402151201/)|Easy||
+|[1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.cn/problems/customer-who-visited-but-did-not-make-any-transactions/)|[submission](https://leetcode.cn/submissions/detail/402151201/)|Easy|[submission 2](https://leetcode.cn/submissions/detail/402152320/)|
