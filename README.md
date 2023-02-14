@@ -20,3 +20,4 @@ This repo is aim to track the SQL problems I've tackled.
 |[608. Tree Node](https://leetcode.cn/problems/tree-node/)|[submission](https://leetcode.cn/submissions/detail/401260518/)|Medium||
 |[176. Second Highest Salary](https://leetcode.cn/problems/second-highest-salary/)|[submission](https://leetcode.cn/submissions/detail/402145426/)|Medium||
 |[175. Combine Two Tables](https://leetcode.cn/problems/combine-two-tables/)|[submission](https://leetcode.cn/submissions/detail/402150282/)|Easy||
+|[1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.cn/problems/customer-who-visited-but-did-not-make-any-transactions/)|[submission](https://leetcode.cn/submissions/detail/402151201/)|Easy||
