@@ -18,4 +18,4 @@ This repo is aim to track the SQL problems I've tackled.
 |[1965. Employees With Missing Information](https://leetcode.cn/problems/employees-with-missing-information/)|[solution](https://leetcode.cn/submissions/detail/401245889/)|Easy||
 |[1795. Rearrange Products Table](https://leetcode.cn/problems/rearrange-products-table/)|[solution](https://leetcode.cn/submissions/detail/401250874/)|Easy||
 |[608. Tree Node](https://leetcode.cn/problems/tree-node/)|[solution](https://leetcode.cn/submissions/detail/401260518/)|Medium||
-|[]()|[]()|Medium||
+|[176. Second Highest Salary](https://leetcode.cn/problems/second-highest-salary/)|[solution](https://leetcode.cn/submissions/detail/402145426/)|Medium||
