@@ -23,3 +23,4 @@ This repo is aim to track the SQL problems I've tackled.
 |[1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.cn/problems/customer-who-visited-but-did-not-make-any-transactions/)|[submission](https://leetcode.cn/submissions/detail/402151201/)|Easy|[submission 2](https://leetcode.cn/submissions/detail/402152320/)|
 |[1148. Article Views I](https://leetcode.cn/problems/article-views-i/)|[submission](https://leetcode.cn/submissions/detail/402775636/)|Easy||
 |[197. Rising Temperature](https://leetcode.cn/problems/rising-temperature/)|[submission](https://leetcode.cn/submissions/detail/402781096/)|Easy||
+|[607. Sales Person](https://leetcode.cn/problems/sales-person/)|[submission](https://leetcode.cn/submissions/detail/402784589/)|Easy||
