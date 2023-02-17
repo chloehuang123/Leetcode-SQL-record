@@ -24,3 +24,4 @@ This repo is aim to track the SQL problems I've tackled.
 |[1148. Article Views I](https://leetcode.cn/problems/article-views-i/)|[submission](https://leetcode.cn/submissions/detail/402775636/)|Easy||
 |[197. Rising Temperature](https://leetcode.cn/problems/rising-temperature/)|[submission](https://leetcode.cn/submissions/detail/402781096/)|Easy||
 |[607. Sales Person](https://leetcode.cn/problems/sales-person/)|[submission](https://leetcode.cn/submissions/detail/402784589/)|Easy||
+|[1141. User Activity for the Past 30 Days I](https://leetcode.cn/problems/user-activity-for-the-past-30-days-i/)|[submission](https://leetcode.cn/submissions/detail/403448723/)|Easy||
