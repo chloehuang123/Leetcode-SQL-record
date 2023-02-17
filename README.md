@@ -26,3 +26,4 @@ This repo is aim to track the SQL problems I've tackled.
 |[607. Sales Person](https://leetcode.cn/problems/sales-person/)|[submission](https://leetcode.cn/submissions/detail/402784589/)|Easy||
 |[1141. User Activity for the Past 30 Days I](https://leetcode.cn/problems/user-activity-for-the-past-30-days-i/)|[submission](https://leetcode.cn/submissions/detail/403448723/)|Easy||
 |[1693. Daily Leads and Partners](https://leetcode.cn/problems/daily-leads-and-partners/)|[submission](https://leetcode.cn/submissions/detail/403448848/)|Easy||
+|[1729. Find Followers Count](https://leetcode.cn/problems/find-followers-count/)|[submission](https://leetcode.cn/submissions/detail/403448950/)|Easy||
