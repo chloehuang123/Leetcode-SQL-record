@@ -29,3 +29,4 @@ This repo is aim to track the SQL problems I've tackled.
 |[1729. Find Followers Count](https://leetcode.cn/problems/find-followers-count/)|[submission](https://leetcode.cn/submissions/detail/403448950/)|Easy||
 |[586. Customer Placing the Largest Number of Orders](https://leetcode.cn/problems/customer-placing-the-largest-number-of-orders/)|[submission](https://leetcode.cn/submissions/detail/405947881/)|Easy||
 [511. Game Play Analysis I](https://leetcode.cn/problems/game-play-analysis-i/)|[submission](https://leetcode.cn/submissions/detail/408740695/)|Easy||
+[1890. The Latest Login in 2020](https://leetcode.cn/problems/the-latest-login-in-2020/)|[submission](https://leetcode.cn/submissions/detail/410427748/)|Easy||
